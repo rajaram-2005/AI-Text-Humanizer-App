@@ -128,13 +128,4 @@ If you find this project useful, please consider:
 Your engagement helps increase visibility and encourages further collaboration!
 
 ---
-
-## 📞 Contact & Support  
-
-For any issues or feature requests, feel free to:  
-📩 **Open an Issue**: [GitHub Issues](https://github.com/DadaNanjesha/AI-Text-Humanizer-App/issues)  
-👨‍💻 **Maintainer**: [@DadaNanjesha](https://github.com/DadaNanjesha)  
-
----
-
 🔥 **Transform Your AI-Generated Text with Ease!** ✨
